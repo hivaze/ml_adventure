@@ -19,6 +19,7 @@ __pycache__/
 *.txt
 models/
 data/
+datasets/
 .ipynb_checkpoints/
 
 # Distribution / packaging
